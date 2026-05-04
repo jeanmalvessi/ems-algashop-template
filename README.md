@@ -20,4 +20,5 @@ Contains the standard project structure, build configuration, and common depende
 - **Java 25**, Spring Boot 4.0.1, Spring Cloud 2025.1.0
 - **Build:** Gradle
 - **Database:** PostgreSQL + Flyway
+- **Utilities:** Lombok, Hypersistence TSID, Commons Validator
 - **Testing:** JUnit 5, Mockito, AssertJ, REST Assured, Testcontainers, Spring Cloud Contract
